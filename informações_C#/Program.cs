@@ -11,19 +11,25 @@ namespace informações_C_
             {
                 Console.WriteLine("Escreva seu nome: ");
                 string respostaNome = Console.ReadLine();
-                
-                Console.WriteLine("Escreva sua idade: ");
-                int respostaIdade = int.Parse(Console.ReadLine());
-                
-                Console.WriteLine("Escreva seu salário: ");
-                int respostaSalario = int.Parse(Console.ReadLine());
-                
-                Console.WriteLine("Escreva seu estado civil: ");
-                string respostaCivil = Console.ReadLine();
 
-                
-                
-            } while (true);
+                if (respostaNome == "")
+                {
+                    Console.WriteLine("Por favor, insira um nome existente");
+                    Console.WriteLine("Escreva seu nome: ");
+                    respostaNome = Console.ReadLine();
+                }
+                else
+                {
+                    resposta = true;
+                }
+
+            }while (resposta == false);
+
+            Console.WriteLine("Escreva sua idade: ");
+            int respostaIdade = int.Parse(Console.ReadLine());
+            
+
+
         }
     }
 }
