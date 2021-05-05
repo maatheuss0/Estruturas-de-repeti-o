@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\senha_C#.exe
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\senha_C#.deps.json
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\senha_C#.runtimeconfig.json
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\senha_C#.runtimeconfig.dev.json
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\senha_C#.dll
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\ref\senha_C#.dll
+C:\Users\dev\Desktop\senha_C#\bin\Debug\net5.0\senha_C#.pdb
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.AssemblyInfo.cs
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.dll
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\ref\senha_C#.dll
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.pdb
+C:\Users\dev\Desktop\senha_C#\obj\Debug\net5.0\senha_C#.genruntimeconfig.cache
