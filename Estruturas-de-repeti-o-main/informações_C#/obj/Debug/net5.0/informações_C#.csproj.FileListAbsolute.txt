@@ -1,0 +1,48 @@
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\informações_C#.exe
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\informações_C#.deps.json
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\informações_C#.runtimeconfig.json
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\informações_C#.runtimeconfig.dev.json
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\informações_C#.dll
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\ref\informações_C#.dll
+C:\Users\dev\Desktop\informações_C#\bin\Debug\net5.0\informações_C#.pdb
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.AssemblyInfo.cs
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.dll
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\ref\informações_C#.dll
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.pdb
+C:\Users\dev\Desktop\informações_C#\obj\Debug\net5.0\informações_C#.genruntimeconfig.cache
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.AssemblyInfo.cs
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.dll
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\ref\informações_C#.dll
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.pdb
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\informações_C#.exe
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\informações_C#.deps.json
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\informações_C#.runtimeconfig.json
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\informações_C#.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\informações_C#.dll
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\ref\informações_C#.dll
+C:\Users\dev\Desktop\C##\informações_C#\bin\Debug\net5.0\informações_C#.pdb
+C:\Users\dev\Desktop\C##\informações_C#\obj\Debug\net5.0\informações_C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\informações_C#.exe
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\informações_C#.deps.json
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\informações_C#.runtimeconfig.json
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\informações_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\informações_C#.dll
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\ref\informações_C#.dll
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\bin\Debug\net5.0\informações_C#.pdb
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.dll
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\ref\informações_C#.dll
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.pdb
+C:\Users\user\Desktop\Projetos Senai\Estruturas-de-repeti-o-main\informações_C#\obj\Debug\net5.0\informações_C#.genruntimeconfig.cache
